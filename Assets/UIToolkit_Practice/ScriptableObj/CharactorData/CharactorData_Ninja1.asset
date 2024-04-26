@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   charactorAvatarImage: {fileID: 2800000, guid: 3570d0fe27bdeac47b8e2282a978d58e, type: 3}
   charactorName: "\u5192\u96AA\u5BB6"
-  charactorStarLevel: 13
+  charactorStarLevel: 3
   charactorStat:
     speed: 23
-    maxHp: 2
+    maxHp: 147
     maxMp: 45
     attack: 7
     defense: 3

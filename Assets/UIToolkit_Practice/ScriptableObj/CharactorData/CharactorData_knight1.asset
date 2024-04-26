@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de10f448c1a3dc249b4f9593030e7195, type: 3}
   m_Name: CharactorData_knight1
   m_EditorClassIdentifier: 
-  charactorAvatarImage: {fileID: 2800000, guid: 3570d0fe27bdeac47b8e2282a978d58e, type: 3}
-  charactorName: "\u5192\u96AA\u5BB6"
-  charactorStarLevel: 13
+  charactorAvatarImage: {fileID: 2800000, guid: 9362cfec71c61e547a43149c25092617, type: 3}
+  charactorName: "\u9A0E\u58EB"
+  charactorStarLevel: 1
   charactorStat:
     speed: 23
-    maxHp: 2
+    maxHp: 145
     maxMp: 45
     attack: 7
     defense: 3
